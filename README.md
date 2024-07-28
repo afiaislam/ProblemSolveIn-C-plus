@@ -1,4 +1,4 @@
 # Project-demo
 This is my first Git repository.
 <br>
-Lets do a project.
+Lets do a new project
